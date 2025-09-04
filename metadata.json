@@ -1,0 +1,5 @@
+{
+  "name": "Lead Classification Checker",
+  "description": "An application to classify leads based on their role and industry, helping to identify potential good, partial, or non-matching leads.",
+  "requestFramePermissions": []
+}
